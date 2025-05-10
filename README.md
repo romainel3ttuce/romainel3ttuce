@@ -2,7 +2,6 @@
 𝒊𝒎 𝒌𝒊𝒏𝒅𝒂 𝒋𝒖𝒔𝒕 𝒉𝒆𝒓𝒆 :3
 
 
-## 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/romainel3ttuce) 
 
 # 
