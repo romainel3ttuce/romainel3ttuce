@@ -2,7 +2,7 @@
 𝒊𝒎 𝒌𝒊𝒏𝒅𝒂 𝒋𝒖𝒔𝒕 𝒉𝒆𝒓𝒆 :3
 
 ##
-<img align="right" height="130" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBoZHFxdmF6YzEzNW05aWc5ZXkwYzIybTVlcnAxODFnMXJlaTJpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBoZHFxdmF6YzEzNW05aWc5ZXkwYzIybTVlcnAxODFnMXJlaTJpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
 
 ###
 
