@@ -4,6 +4,8 @@
   👩‍💻 Looking to collaborate on any projects relating to business intelligence, management, and financial analytics <br/>
   🌱 Learning about data analytics, data visualization, and R! <br/>
   🤝 Looking forward to learning C++ and JavaScript next! <br/>
+
+  📧 Reach out to me at romina.sarfehnia@gmail.com! <br/>
 ###
 ##
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHBoZHFxdmF6YzEzNW05aWc5ZXkwYzIybTVlcnAxODFnMXJlaTJpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
