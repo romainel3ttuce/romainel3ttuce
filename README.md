@@ -1,13 +1,10 @@
 ## Hello, I'm Romina!
 ###
   📚 Current undergraduate @ UCSB double majoring in Economics and Statistics & Data Science 
-####
 ###
   👩‍💻 Looking to collaborate on any projects relating to business intelligence, management, and financial analytics
 ###
-###
   🌱 Learning about data analytics, data visualization, and R! 
-###
 ### 
   🤝 Looking forward to learning C++ and JavaScript next!
 ###
