@@ -1,9 +1,9 @@
-## Hello, I'm Romina!
+## 🌟 Hi, I'm Romina!
 ###
-  📚 Current undergraduate @ UCSB double majoring in Economics and Statistics & Data Science <br/>
+  📚 Current undergraduate @ UC Santa Barbara double majoring in Economics and Statistics & Data Science <br/>
   👩‍💻 Looking to collaborate on any projects relating to AI, data science, and product management <br/>
   🌱 Delving deeper into data analytics, Python, and R <br/>
-  🤝 Looking forward to learning C++ and JavaScript next! <br/>
+  🤝 Learning C++ and JavaScript next! ✨ <br/>
 
   📧 Reach out to me at: <br/>
   school: rsarfehnia@ucsb.edu <br/>
