@@ -2,8 +2,8 @@
 ###
   📚 Current undergraduate @ UC Santa Barbara double majoring in Economics and Statistics & Data Science <br/>
   👩‍💻 Looking to collaborate on any projects relating to AI, data science, and product management <br/>
-  🌱 Delving deeper into data analytics, Python, and R <br/>
-  🤝 Learning C++ and JavaScript next! ✨ <br/>
+  🌱 Delving deeper into C++, Python, and R <br/>
+  🤝 Learning JavaScript next! ✨ <br/>
 
   📧 Reach out to me at: <br/>
   school: rsarfehnia@ucsb.edu <br/>
