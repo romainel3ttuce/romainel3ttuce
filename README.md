@@ -1,7 +1,7 @@
 ## 🌟 Hi, I'm Romina!
 ###
   📚 Current undergraduate @ UC Santa Barbara double majoring in Economics and Statistics & Data Science <br/>
-  👩‍💻 Looking to collaborate on any projects relating to AI, data science, and product management <br/>
+  👩‍💻 Looking to collaborate on any projects relating to AI, data science, and front-end development <br/>
   🌱 Delving deeper into C++, Python, and JavaScript <br/>
   🤝 Learning C# next! ✨ <br/>
 
