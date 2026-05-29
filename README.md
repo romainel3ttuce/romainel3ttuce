@@ -2,7 +2,7 @@
 ###
   📚 Current undergraduate @ UC Santa Barbara double majoring in Economics and Statistics & Data Science <br/>
   👩‍💻 Looking to collaborate on any projects relating to AI, data science, and front-end development <br/>
-  🌱 Delving deeper into C++, Python, and JavaScript <br/>
+  🌱 Delving deeper into R, Python, and JavaScript <br/>
   🤝 Learning C# next! ✨ <br/>
 
   📧 Reach out to me at: <br/>
